@@ -73,3 +73,14 @@ renovate.json
 TODO*
 NOTES*
 *.todo
+node_modules
+dist
+.git
+*.log
+*.md
+.vscode
+coverage
+tmp
+.env
+npm-debug.log*
+yarn-error.log*
